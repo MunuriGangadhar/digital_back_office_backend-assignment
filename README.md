@@ -1,4 +1,4 @@
-```markdown
+
 # Rover Navigation Backend
 
 This project is a Node.js backend application that simulates rover movement on a rectangular plateau.  
@@ -156,10 +156,3 @@ Invalid input returns proper 400 error responses.
 - Error handling is centralized using middleware.
 - The system is stateless and easy to extend.
 
----
-
-## Author
-
-Munuri Gangadhar  
-Backend Developer
-```
